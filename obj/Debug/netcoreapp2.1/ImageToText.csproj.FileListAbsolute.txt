@@ -1,0 +1,11 @@
+C:\Users\hsayadyan\source\repos\ImageToText\ImageToText\bin\Debug\netcoreapp2.1\ImageToText.deps.json
+C:\Users\hsayadyan\source\repos\ImageToText\ImageToText\bin\Debug\netcoreapp2.1\ImageToText.runtimeconfig.json
+C:\Users\hsayadyan\source\repos\ImageToText\ImageToText\bin\Debug\netcoreapp2.1\ImageToText.runtimeconfig.dev.json
+C:\Users\hsayadyan\source\repos\ImageToText\ImageToText\bin\Debug\netcoreapp2.1\ImageToText.dll
+C:\Users\hsayadyan\source\repos\ImageToText\ImageToText\obj\Debug\netcoreapp2.1\ImageToText.csproj.CoreCompileInputs.cache
+C:\Users\hsayadyan\source\repos\ImageToText\ImageToText\obj\Debug\netcoreapp2.1\ImageToText.AssemblyInfoInputs.cache
+C:\Users\hsayadyan\source\repos\ImageToText\ImageToText\obj\Debug\netcoreapp2.1\ImageToText.AssemblyInfo.cs
+C:\Users\hsayadyan\source\repos\ImageToText\ImageToText\bin\Debug\netcoreapp2.1\ImageToText.pdb
+C:\Users\hsayadyan\source\repos\ImageToText\ImageToText\obj\Debug\netcoreapp2.1\ImageToText.dll
+C:\Users\hsayadyan\source\repos\ImageToText\ImageToText\obj\Debug\netcoreapp2.1\ImageToText.pdb
+C:\Users\hsayadyan\source\repos\ImageToText\ImageToText\bin\Debug\netcoreapp2.1\appsettings.json

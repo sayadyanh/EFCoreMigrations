@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ImageToText": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

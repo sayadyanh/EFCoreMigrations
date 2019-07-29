@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ImageToText.API</name>
+    </assembly>
+    <members>
+        <member name="M:ImageToText.API.Controllers.ValuesController.Get">
+            <summary>
+            getting all values
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ImageToText.API.Controllers.ValuesController.Get(System.Int32)">
+            <summary>
+            getting one value
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
